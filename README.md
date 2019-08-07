@@ -1,0 +1,2 @@
+# Vehicle-Accident-Detection-and-Rescue-Information-System
+Developed a system in order to detect vehicle accident and send the location information of the accident place to vehicle owner, nearest hospital and police station via a web service.For fetching real time data from the hardware device using sensors and store in the web server, Accelerometer,Gyrometer,GSM/GPRS shield and GPS modules were used.
